@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+}
+
+.second{
+    margin-left: 50px;
+}
+.first{
+    width: 20%;
+    
+    align-items: center;
+    padding: 10px;
+  
+}

@@ -1,0 +1,13 @@
+.innner{
+    display: flex;
+    gap: 10px;
+}
+.perfomance{
+    
+
+    padding: 10px;
+    border-radius: 5px;
+}
+.mar{
+    margin-top: -3px;
+}
